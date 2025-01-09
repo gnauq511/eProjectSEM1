@@ -1,0 +1,19 @@
+.navbar .nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+.container-fluid{
+    background-color: rgb(0, 0, 0) !important;
+}
+.navbar .nav-link img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar {
+    position: fixed; /* Giữ cố định */
+    top: 0;          /* Đặt ở đầu trang */
+    width: 100%;     /* Chiếm toàn bộ chiều rộng */
+    z-index: 1000;   /* Đảm bảo menu ở trên các phần tử khác */
+}
+body {
+    padding-top: 70px; /* Tạo khoảng trống bằng chiều cao của navbar */
+}
