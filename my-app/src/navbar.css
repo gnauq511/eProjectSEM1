@@ -1,0 +1,38 @@
+.navbar .nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+.container-fluid{
+    background-color: rgb(0, 0, 0) !important;
+}
+.navbar .nav-link img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar {
+    position: fixed; 
+    top: 0;          
+    width: 100%;     
+    z-index: 1000;   
+}
+body {
+    padding-top: 70px; 
+}
+.icon-white {
+    color: white;
+  }
+  .navbar-nav .nav-link {
+    color: white;
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: white;
+    color: black !important;
+    border-radius: 5px; 
+}
+.visitor-count {
+    font-size: 0.8rem ;
+    font-weight: bold;
+    color: white;
+    float: left;
+}

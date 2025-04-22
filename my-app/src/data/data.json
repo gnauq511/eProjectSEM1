@@ -1,0 +1,619 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Shirts"  
+        },
+        {
+            "id": 2,
+            "name": "Skirts"  
+        },
+        {
+            "id": 3,
+            "name": "Frocks"  
+        },
+        {
+            "id": 4,
+            "name": "P.T. shorts"  
+        },
+        {
+            "id": 5,
+            "name": "P.T. T-shirts"  
+        },
+        {
+            "id": 6,
+            "name": "P.T. track pants"  
+        },
+        {
+            "id": 7,
+            "name": "Belts"  
+        },
+        {
+            "id": 8,
+            "name": "Ties"
+        },       
+        {
+            "id": 9,
+            "name": "Socks"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "categories": 1,
+            "name": "White Long Sleeve Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "250,000đ",
+            "image": "somi2.jpg",
+            "sale": 1
+        },
+        {
+            "id": 2,
+            "categories": 1,
+            "name": "Men's Office Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "299,000đ",
+            "image": "somi.jpg"
+        },
+        {
+            "id": 3,
+            "categories": 1,
+            "name": "Denim Men's Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "370,000đ",
+            "image": "sowmi.jpg",
+            "sale": 1  
+        },
+        {
+            "id": 4,
+            "categories": 1,
+            "name": "Black Korean Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "180,000đ",
+            "image": "somiu3.jpg",
+            "sale": 1
+        },
+        {
+            "id": 5,
+            "categories": 2,
+            "name": "Beige Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "450,000đ",
+            "image": "vayngan1.jpg"
+        },
+        {
+            "id": 6,
+            "categories": 2,
+            "name": "Pink Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "420,000đ",
+            "image": "vayngan2.jpg"
+        },
+        {
+            "id": 7,
+            "categories": 2,
+            "name": "Brown Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "500,000đ",
+            "image": "vayngan3.jpg"
+        },
+        {
+            "id": 8,
+            "categories": 2,
+            "name": "Dark Gray Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "370,000đ",
+            "image": "vayngan4.jpg"
+        },
+        {
+            "id": 9,
+            "categories": 3,
+            "name": "Stylish Black Long Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "510,000đ",
+            "image": "vaydai1.jpg"
+        },{
+            "id": 10,
+            "categories": 3,
+            "name": "Elegant Long Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "610,000đ",
+            "image": "vaydai2.jpg"
+        },{
+            "id": 11,
+            "categories": 3,
+            "name": "Office Long Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "450,000đ",
+            "image": "vaydai3.jpg"
+        },{
+            "id": 12,
+            "categories": 3,
+            "name": "Elegant Princess Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "650,000đ",
+            "image": "vaydai4.jpg"
+        },{
+            "id": 13,
+            "categories": 4,
+            "name": "DT Shirt with Two-Lapel Collar and Patch Pocket",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "150,000đ",
+            "image": "quandui1.jpg"
+        },
+        {
+            "id": 14,
+            "categories": 4,
+            "name": "DT Shirt with Stylish Wing Collar",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "140,000đ",
+            "image": "quandui2.jpg"
+        },
+        {
+            "id": 15,
+            "categories": 4,
+            "name": "DT Shirt with Bow-Tie Collar",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "146,000đ",
+            "image": "quandui3.jpg"
+        },
+        {
+            "id": 16,
+            "categories": 4,
+            "name": "DT Shirt with Ruffled Trim and Collar",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "221,000đ",
+            "image": "quandui4.jpg"
+        },
+        {
+            "id": 17,
+            "categories": 5,
+            "name": "Beautiful Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "300,000đ",
+            "image": "aophong1.jpg"
+        },
+        {
+            "id": 18,
+            "categories": 5,
+            "name": "Beige Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "420,000đ",
+            "image": "aophong2.jpg"
+        },
+        {
+            "id": 19,
+            "categories": 5,
+            "name": "Pink Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "450,000đ",
+            "image": "aophong3.jpg"
+        },
+        {
+            "id": 20,
+            "categories": 5,
+            "name": "Brown Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "500,000đ",
+            "image": "aophong4.jpg"
+        },
+        {
+            "id": 21,
+            "categories": 6,
+            "name": "Lightweight Training Joggers",
+            "description": "Designed for comfort and flexibility, these joggers feature breathable cotton fabric with four-way stretch for optimal movement.",
+            "price": "189,000đ",
+            "image": "quandai1.jpg"
+        },
+        {
+            "id": 22,
+            "categories": 6,
+            "name": "Athletic Performance Sweatpants",
+            "description": "Soft and moisture-wicking sports pants ideal for workouts and casual wear, offering superior breathability.",
+            "price": "260,000đ",
+            "image": "quandai2.jpg"
+        },
+        {
+            "id": 23,
+            "categories": 6,
+            "name": "Stretch-Fit Running Pants",
+            "description": "A stylish and functional pair of sports pants featuring a snug yet flexible fit, perfect for active lifestyles.",
+            "price": "250,000đ",
+            "image": "quandai3.jpg"
+        },
+        {
+            "id": 24,
+            "categories": 6,
+            "name": "Everyday Comfort Sweatpants",
+            "description": "Crafted for everyday wear, these sweatpants provide a relaxed fit with breathable cotton fabric for all-day comfort.",
+            "price": "340,000đ",
+            "image": "quandai4.jpg"
+        },
+        {
+            "id": 25,
+            "categories": 7,
+            "name": "Classic Leather Belt",
+            "description": "Crafted from premium cowhide leather, this belt offers durability and timeless elegance for any outfit.",
+            "price": "190,000đ",
+            "image": "thatlung1.jpg"
+        },
+        {
+            "id": 26,
+            "categories": 7,
+            "name": "Formal Genuine Leather Belt",
+            "description": "A sleek and stylish leather belt designed for both formal and business attire, ensuring a polished look.",
+            "price": "200,000đ",
+            "image": "thatlung2.jpg"
+        },
+        {
+            "id": 27,
+            "categories": 7,
+            "name": "Vintage Brown Leather Belt",
+            "description": "This vintage-style belt is made from soft cowhide leather, adding a touch of sophistication to any outfit.",
+            "price": "211,000đ",
+            "image": "thatlung3.jpg"
+        },
+        {
+            "id": 28,
+            "categories": 7,
+            "name": "Casual Everyday Leather Belt",
+            "description": "A versatile and durable leather belt, perfect for everyday wear with jeans, chinos, or dress pants.",
+            "price": "135,000đ",
+            "image": "thatlung4.jpg"
+        },
+        {
+            "id": 29,
+            "categories": 8,
+            "name": "Classic Silk Necktie",
+            "description": "A timeless silk necktie with a smooth finish, perfect for both formal and casual occasions.",
+            "price": "190,000đ",
+            "image": "cavat1.jpg"
+        },
+        {
+            "id": 30,
+            "categories": 8,
+            "name": "Luxury Striped Silk Tie",
+            "description": "This premium silk tie features a refined striped design, adding elegance to any suit or blazer.",
+            "price": "220,000đ",
+            "image": "cavat2.jpg"
+        },
+        {
+            "id": 31,
+            "categories": 8,
+            "name": "Modern Textured Silk Tie",
+            "description": "Designed with a subtle textured pattern, this silk tie enhances your professional and stylish look.",
+            "price": "240,000đ",
+            "image": "cavat3.jpg"
+        },
+        {
+            "id": 32,
+            "categories": 8,
+            "name": "Elegant Patterned Silk Tie",
+            "description": "An exquisite patterned silk tie that adds a sophisticated touch to any formal or business attire.",
+            "price": "230,000đ",
+            "image": "cavat4.jpg"
+        },
+        {
+            "id": 33,
+            "categories": 9,
+            "name": "Premium Thermal Wool Socks",
+            "description": "Crafted from ultra-soft wool, these socks offer superior warmth and comfort for everyday wear.",
+            "price": "50,000đ",
+            "image": "tat2.jpg"
+        },
+        {
+            "id": 34,
+            "categories": 9,
+            "name": "Cozy Winter Wool Socks",
+            "description": "Designed to keep your feet warm in cold weather, these wool socks provide a snug and comfortable fit.",
+            "price": "80,000đ",
+            "image": "tat1.jpg"
+        },
+        {
+            "id": 35,
+            "categories": 9,
+            "name": "Breathable Merino Wool Socks",
+            "description": "Made from high-quality merino wool, these socks ensure breathability and moisture-wicking properties for all-day comfort.",
+            "price": "100,000đ",
+            "image": "tat3.jpg"
+        },
+        {
+            "id": 36,
+            "categories": 9,
+            "name": "Soft Everyday Wool Socks",
+            "description": "Lightweight and soft, these wool socks are perfect for daily wear, keeping your feet fresh and cozy.",
+            "price": "79,000đ",
+            "image": "tat4.jpg"
+        },
+        {
+            "id": 37,
+            "categories": 1,
+            "name": "White Long Sleeve Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "250,000đ",
+            "image": "sominu1.jpg",
+            "sale": 1
+        },
+        {
+            "id": 38,
+            "categories": 1,
+            "name": "Women's Office Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "299,000đ",
+            "image": "sominu2.jpg",
+            "sale": 2
+        },
+        {
+            "id": 39,
+            "categories": 1,
+            "name": "Denim Women's Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "370,000đ",
+            "image": "sominu3.jpg",
+            "sale": 2
+        },
+        {
+            "id": 40,
+            "categories": 1,
+            "name": "Black Korean Shirt",
+            "description": "The long shirt is a variation of the traditional shirt with the body of the shirt designed longer than the usual style. This type of shirt can be worn by both men and women, bringing a variety of styles from polite to dynamic and individual.",
+            "price": "180,000đ",
+            "image": "sominu4.jpg"
+        },
+        {
+            "id": 41,
+            "categories": 2,
+            "name": "Beige Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "450,000đ",
+            "image": "vayngan5.jpg"
+        },
+        {
+            "id": 42,
+            "categories": 2,
+            "name": "Pink Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "420,000đ",
+            "image": "vayngan6.jpg"
+        },
+        {
+            "id": 43,
+            "categories": 2,
+            "name": "Brown Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "500,000đ",
+            "image": "vayngan7.jpg"
+        },
+        {
+            "id": 44,
+            "categories": 2,
+            "name": "Dark Gray Short Skirt",
+            "description": "Short skirts are a popular type of clothing in women's fashion, with a length above the knee, helping to highlight the legs and create a dynamic, attractive appearance. Short skirts come in many different designs, materials and styles, suitable for many occasions from the office, going out to parties.",
+            "price": "370,000đ",
+            "image": "vayngan8.jpg",
+            "sale": 2
+        },
+        {
+            "id": 45,
+            "categories": 3,
+            "name": "Stylish Black Long Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "510,000đ",
+            "image": "vaydai5.jpg"
+        },{
+            "id": 46,
+            "categories": 3,
+            "name": "Elegant Long Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "610,000đ",
+            "image": "vaydai6.jpg",
+            "sale": 2
+        },{
+            "id": 47,
+            "categories": 3,
+            "name": "Office Long Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "450,000đ",
+            "image": "vaydai7.jpg"
+        },{
+            "id": 48,
+            "categories": 3,
+            "name": "Elegant Princess Dress",
+            "description": "A long dress is a dress that is from mid-calf to the ground, giving a graceful, elegant look and suitable for many different situations. With a variety of designs, materials and styles, a long dress is the perfect choice for both everyday and important events.",
+            "price": "650,000đ",
+            "image": "vaydai8.jpg"
+        },{
+            "id": 49,
+            "categories": 4,
+            "name": "DT Shirt with Two-Lapel Collar and Patch Pocket",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "150,000đ",
+            "image": "quandui5.jpg"
+        },
+        {
+            "id": 50,
+            "categories": 4,
+            "name": "DT Shirt with Stylish Wing Collar",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "140,000đ",
+            "image": "quandui6.jpg"
+        },
+        {
+            "id": 51,
+            "categories": 4,
+            "name": "DT Shirt with Bow-Tie Collar",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "146,000đ",
+            "image": "quandui7.jpg"
+        },
+        {
+            "id": 52,
+            "categories": 4,
+            "name": "DT Shirt with Ruffled Trim and Collar",
+            "description": "Soft cotton material with four-way stretch, breathable, suitable for various conditions",
+            "price": "221,000đ",
+            "image": "quandui8.jpg"
+        },
+        { 
+            "id": 53,
+            "categories": 5,
+            "name": "Charming Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "300,000đ",
+            "image": "aophong5.jpg"
+        },
+        {
+            "id": 54,
+            "categories": 5,
+            "name": "Elegant Short Skirt",
+            "description": "Soft and comfortable fabric, bringing elegance and confidence for any occasion.",
+            "price": "420,000đ",
+            "image": "aophong6.jpg"
+        },
+        {
+            "id": 55,
+            "categories": 5,
+            "name": "Graceful Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "450,000đ",
+            "image": "aophong7.jpg"
+        },
+        {
+            "id": 56,
+            "categories": 5,
+            "name": "Stylish Short Skirt",
+            "description": "Trendy short skirt with a youthful Korean style, perfect for parties and outings...",
+            "price": "500,000đ",
+            "image": "aophong8.jpg"
+        },
+        {
+            "id": 57,
+            "categories": 6,
+            "name": "Lightweight Training Joggers",
+            "description": "Designed for comfort and flexibility, these joggers feature breathable cotton fabric with four-way stretch for optimal movement.",
+            "price": "189,000đ",
+            "image": "quandai5.jpg"
+        },
+        {
+            "id": 58,
+            "categories": 6,
+            "name": "Athletic Performance Sweatpants",
+            "description": "Soft and moisture-wicking sports pants ideal for workouts and casual wear, offering superior breathability.",
+            "price": "260,000đ",
+            "image": "quandai6.jpg"
+        },
+        {
+            "id": 59,
+            "categories": 6,
+            "name": "Stretch-Fit Running Pants",
+            "description": "A stylish and functional pair of sports pants featuring a snug yet flexible fit, perfect for active lifestyles.",
+            "price": "250,000đ",
+            "image": "quandai7.jpg"
+        },
+        {
+            "id": 60,
+            "categories": 6,
+            "name": "Everyday Comfort Sweatpants",
+            "description": "With a modern design and ultra-soft fabric, these sweatpants provide both style and all-day comfort for any activity.",
+            "price": "340,000đ",
+            "image": "quandai8.jpg"
+        },
+        {
+            "id": 61,
+            "categories": 7,
+            "name": "Classic Leather Belt",
+            "description": "Crafted from premium cowhide leather, this belt offers durability and timeless elegance for any outfit.",
+            "price": "190,000đ",
+            "image": "thatlung5.jpg"
+        },
+        {
+            "id": 62,
+            "categories": 7,
+            "name": "Formal Genuine Leather Belt",
+            "description": "A sleek and stylish leather belt designed for both formal and business attire, ensuring a polished look.",
+            "price": "200,000đ",
+            "image": "thatlung6.jpg"
+        },
+        {
+            "id": 63,
+            "categories": 7,
+            "name": "Vintage Brown Leather Belt",
+            "description": "Made from premium leather with an antique finish, this belt adds a rugged yet sophisticated touch to any outfit.",
+            "price": "211,000đ",
+            "image": "thatlung7.jpg"
+        },
+        {
+            "id": 64,
+            "categories": 7,
+            "name": "Casual Everyday Leather Belt",
+            "description": "A versatile and durable leather belt, perfect for everyday wear with jeans, chinos, or dress pants.",
+            "price": "135,000đ",
+            "image": "thatlung8.jpg"
+        },        
+        {
+            "id": 65,
+            "categories": 8,
+            "name": "Classic Silk Necktie",
+            "description": "A timeless silk necktie with a smooth finish, perfect for both formal and casual occasions.",
+            "price": "190,000đ",
+            "image": "cavat5.jpg"
+        },
+        {
+            "id": 66,
+            "categories": 8,
+            "name": "Luxury Striped Silk Tie",
+            "description": "This premium silk tie features a refined striped design, adding elegance to any suit or blazer.",
+            "price": "220,000đ",
+            "image": "cavat6.jpg"
+        },
+        {
+            "id": 67,
+            "categories": 8,
+            "name": "Modern Textured Silk Tie",
+            "description": "With its high-quality silk fabric and unique texture, this tie ensures a sophisticated and polished appearance.",
+            "price": "240,000đ",
+            "image": "cavat7.jpg"
+        },
+        {
+            "id": 68,
+            "categories": 8,
+            "name": "Elegant Patterned Silk Tie",
+            "description": "An exquisite patterned silk tie that adds a sophisticated touch to any formal or business attire.",
+            "price": "230,000đ",
+            "image": "cavat8.jpg"
+        },        
+        {
+            "id": 69,
+            "categories": 9,
+            "name": "Premium Thermal Wool Socks",
+            "description": "Crafted from ultra-soft wool, these socks offer superior warmth and comfort for everyday wear.",
+            "price": "50,000đ",
+            "image": "tat5.jpg"
+        },
+        {
+            "id": 70,
+            "categories": 9,
+            "name": "Cozy Winter Wool Socks",
+            "description": "Designed to keep your feet warm in cold weather, these wool socks provide a snug and comfortable fit.",
+            "price": "80,000đ",
+            "image": "tat6.jpg"
+        },
+        {
+            "id": 71,
+            "categories": 9,
+            "name": "Breathable Merino Wool Socks",
+            "description": "Made from high-quality merino wool, these socks provide excellent insulation while remaining lightweight and breathable.",
+            "price": "100,000đ",
+            "image": "tat7.jpg"
+        },
+        {
+            "id": 72,
+            "categories": 9,
+            "name": "Soft Everyday Wool Socks",
+            "description": "Lightweight and soft, these wool socks are perfect for daily wear, keeping your feet fresh and cozy.",
+            "price": "79,000đ",
+            "image": "tat8.jpg"
+        }
+        
+    ]
+}
